@@ -2,7 +2,7 @@
 
 ## Project Description
 This project was automatically generated based on the following requirement:
-Create a Snake and Ladder game: player moves on a grid (1-100), dice roll controls movement, snakes and ladders applied, score/position shown in #position.
+Enhance Snake and Ladder: track number of moves (#moves), highlight last dice roll (#dice-roll), add custom ladders/snakes (.custom-element), show winning alert (#winner).
 
 ## Features
 - Implements the specified functionality
